@@ -20,8 +20,8 @@
        Excel_Date_Format and Excel_Time_Format  are for XLS reports
     """,
 
-    'author': "Biznovare solutions",
-    'website': "http://www.biznovare.com",
+    'author': "Sandip Patel",
+    'website': "http://www.sandippatel.com",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/10.0/odoo/addons/base/module/module_data.xml
