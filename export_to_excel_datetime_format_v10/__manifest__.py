@@ -38,4 +38,6 @@
     ],
     # only loaded in demonstration mode
     'demo': [],
+    'images': ['static/description/date.jpeg'],
+
 }
